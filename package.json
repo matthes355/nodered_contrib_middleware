@@ -1,6 +1,6 @@
 {
     "name": "edi_middleware",
-    "description": "Ein Node-RED-Projekt",
+    "description": "middle ware for customer EDI",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
